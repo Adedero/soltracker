@@ -1,0 +1,22 @@
+export const devices = [
+  { name: "Refrigerator", units: 2, consumption: 179, percentageConsumption: 12, hoursActive: 0.7 },
+  { name: "Washing Machine", units: 1, consumption: 500, percentageConsumption: 15, hoursActive: 1.5 },
+  { name: "Microwave", units: 1, consumption: 120, percentageConsumption: 8, hoursActive: 0.2 },
+  { name: "Television", units: 2, consumption: 150, percentageConsumption: 10, hoursActive: 3 },
+  { name: "Laptop", units: 3, consumption: 45, percentageConsumption: 4, hoursActive: 5 },
+  { name: "Air Conditioner", units: 2, consumption: 1500, percentageConsumption: 30, hoursActive: 8 },
+  { name: "Ceiling Fan", units: 4, consumption: 70, percentageConsumption: 6, hoursActive: 10 },
+  { name: "Heater", units: 1, consumption: 1000, percentageConsumption: 20, hoursActive: 3 },
+  { name: "Dishwasher", units: 1, consumption: 700, percentageConsumption: 16, hoursActive: 1 },
+  { name: "Vacuum Cleaner", units: 1, consumption: 200, percentageConsumption: 5, hoursActive: 0.5 },
+  { name: "Water Heater", units: 1, consumption: 450, percentageConsumption: 12, hoursActive: 1 },
+  { name: "Electric Oven", units: 1, consumption: 1000, percentageConsumption: 20, hoursActive: 2 },
+  { name: "Iron", units: 1, consumption: 1200, percentageConsumption: 25, hoursActive: 0.5 },
+  { name: "Toaster", units: 1, consumption: 100, percentageConsumption: 5, hoursActive: 0.1 },
+  { name: "Blender", units: 1, consumption: 300, percentageConsumption: 6, hoursActive: 0.2 },
+  { name: "Hair Dryer", units: 1, consumption: 1800, percentageConsumption: 35, hoursActive: 0.3 },
+  { name: "Coffee Maker", units: 1, consumption: 800, percentageConsumption: 18, hoursActive: 0.5 },
+  { name: "Printer", units: 1, consumption: 90, percentageConsumption: 3, hoursActive: 0.2 },
+  { name: "Light Bulb", units: 10, consumption: 10, percentageConsumption: 1, hoursActive: 5 },
+  { name: "Router", units: 1, consumption: 20, percentageConsumption: 2, hoursActive: 24 }
+];
